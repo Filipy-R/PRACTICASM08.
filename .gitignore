@@ -1,0 +1,4 @@
+# Ignore archivos .log
+*.log
+# Ignore carpeta de congifuraciones temporales
+temp/
